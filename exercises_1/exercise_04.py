@@ -7,4 +7,5 @@ for x in range(list_size):
     list.append(float(input("Please enter a float: ")))
 
 #Prints result
-print(list)
+print(str(list))
+print((sum(list) / list_size))
