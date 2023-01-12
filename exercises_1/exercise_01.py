@@ -1,6 +1,5 @@
 # Variables
-grade = input("Please enter a grade from 0 - 100: ")
-grade = float(grade)
+grade = float(input("Please enter a grade from 0 - 100: "))
 
 # Compares variable, assignes grade,
 if grade >= 90:

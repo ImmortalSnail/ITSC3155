@@ -1,6 +1,5 @@
 # Variables
-cube = input("Enter an integer greater than 1: ")
-cube = int(cube)
+cube = int(input("Enter an integer greater than 1: "))
 
 # Cubes sequentially
 for x in range(cube + 1):
