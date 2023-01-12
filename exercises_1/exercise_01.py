@@ -1,6 +1,8 @@
+# Variables
 grade = input("Please enter a grade from 0 - 100: ")
 grade = float(grade)
 
+# Compares variable, assignes grade,
 if grade >= 90:
     print("Your grade is A.")
 elif grade < 90 and grade >=80:
