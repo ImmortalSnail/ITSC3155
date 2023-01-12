@@ -12,8 +12,8 @@ for x in range(5):
 # Generates results
 for x in list:
     var = list[x - 1]
-    for x in list2:
-        if var == list2[x - 2] and result_list.count(var) == 0:
+    for x in list:
+        if var == list2[x - 1] and result_list.count(var) == 0:
             result_list.append(var)
 
 # Prints finished lists
