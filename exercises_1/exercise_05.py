@@ -11,10 +11,10 @@ for x in range(5):
 
 # Generates results
 for x in list:
-    var = list[x - 1]
-    for x in list:
-        if var == list2[x - 1] and result_list.count(var) == 0:
-            result_list.append(var)
+    var = x
+    for x in list2:
+        if var == x and result_list.count(x) == 0:
+            result_list.append(x)
 
 # Prints finished lists
 print(str(list) + "\n" + str(list2) + "\n" + str(result_list))
