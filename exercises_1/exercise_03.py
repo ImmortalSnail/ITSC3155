@@ -1,3 +1,4 @@
+# By Ronnie Hampton
 # Variables
 cube = int(input("Enter an integer greater than 1: "))
 

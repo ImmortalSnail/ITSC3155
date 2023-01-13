@@ -1,3 +1,4 @@
+# By Ronnie Hampton
 # Variables
 list = []
 unique = []

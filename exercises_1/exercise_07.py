@@ -1,3 +1,4 @@
+# By Ronnie Hampton
 # Variables
 quit = True
 list = []

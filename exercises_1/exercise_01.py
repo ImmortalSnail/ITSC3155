@@ -1,3 +1,4 @@
+# By Ronnie Hampton
 # Variables
 grade = float(input("Please enter a grade from 0 - 100: "))
 

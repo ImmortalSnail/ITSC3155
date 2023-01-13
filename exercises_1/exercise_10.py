@@ -1,3 +1,4 @@
+# By Ronnie Hampton
 # Variables
 inp = input("Enter a string: ")
 list = []
